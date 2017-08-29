@@ -1,2 +1,2 @@
-# irssi_hilogger
-An Irssi script to log highlights
+# irssi_keywordlogger
+An Irssi script to log lines matching keywords to file.
