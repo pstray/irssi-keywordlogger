@@ -1,3 +1,7 @@
+#
+# Copyright (C) 2017 by Peder Stray <peder.stray@gmail.com>
+#
+
 use warnings;
 use strict;
 use Irssi;
